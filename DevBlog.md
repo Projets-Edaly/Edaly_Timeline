@@ -1,4 +1,5 @@
 
+![apache](https://www.edaly.fr/wp-content/uploads/2018/04/DB_1_Website.png)
 # DEVBLOG #1 – Novembre 2017
 
 Nous avons des informations à vous transmettre au sujet du développement de nos deux  
@@ -21,8 +22,8 @@ Comme vous avez peut-être pu le voir dans le canal blah-blah, GeK a partagé de
 Le Chevrolet Apache est un véhicule fabriqué à la fin des années 50 et ayant perduré plusieurs dizaines d’années. Collant parfaitement avec l’univers sur lequel nous travaillons, nous espérons que vous apprécierez l’utiliser.
 
 Voici quelques petites images pour que vous puissiez vous donner une idée de la chose.
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2017/12/GeK-Apache_Promo2.png)
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2017/12/GeK-Apache_Promo1.png)
+![apache](https://www.edaly.fr/wp-content/uploads/2017/12/GeK-Apache_Promo2.png)
+![apache](https://www.edaly.fr/wp-content/uploads/2017/12/GeK-Apache_Promo1.png)
 
 
 Nous réfléchissons à organiser une réunion communautaire afin de répondre à vos questions,  
