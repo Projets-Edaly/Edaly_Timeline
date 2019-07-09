@@ -9,8 +9,8 @@
 |5|27 mai 2018 27/05/2018|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/DevBlog5.md)|
 |6|22 juillet 2018 22/07/2018|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/DevBlog6.md)|
 
-|Spotlight|Date|
-|-|-|
+|Spotlight|Date|Link
+|-|-|-|
 |1|16 mars 2018 16/03/2018|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/Spotlight1.md)|
 |2|15 avril 2018 15/04/2018|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/Spotlight2.md)|
 |3|15 mai 2018 15/05/2018|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/Spotlight3.md)|
