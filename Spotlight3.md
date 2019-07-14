@@ -19,3 +19,8 @@ Après s’être fait d’une idée de ce que l’on voulait faire, il suffit de
 ![](https://lh3.googleusercontent.com/sxozM4DrQgeUEl9iNYJDxwFjk1GKb8leACunWKUZHK6px-yR4WGdpEsevSvobk_TZy8h6XPFOtsbpNRrijWtzGg6YRnO4B-TK0O-fWhWdZ_L2LB587OrNin15bee63UyMML_6KXkVKk5nipFeA)
 
 C’est tout pour ce spotlight qui, je l’espère, vous aura plus. Nous en profitons d’ailleurs pour vous informer que nous recherchons actuellement des graphistes pour travailler sur les différentes textures de nos mods. Vous aimez le graphisme ? Vous voulez aussi apprendre ? Postulez !
+
+Rejoignez-Nous !  
+Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
+Discord : [https://discord.me/edaly](https://discord.gg/SUCBQk3)  
+Twitter : [@EdalyFR](https://twitter.com/EdalyFR)
