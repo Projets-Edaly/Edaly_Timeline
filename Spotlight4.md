@@ -66,6 +66,11 @@ C’est tout pour ce Spotlight dédié au modeling 3D. Nous vous donnons rendez-
 
 A très bientôt !
 
+Rejoignez-Nous !  
+Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
+Discord : [https://discord.me/edaly](https://discord.gg/SUCBQk3)  
+Twitter : [@EdalyFR](https://twitter.com/EdalyFR)
+
 Discord : [https://discord.me/edaly  
 ](https://discord.me/edaly)Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
 Twitter : [https://twitter.com/edalyfr](https://twitter.com/edalyfr)
