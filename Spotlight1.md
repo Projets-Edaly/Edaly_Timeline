@@ -55,6 +55,6 @@ Et voilà, c’est tout pour ce premier Spotlight qui, nous l’espérons, vous 
 
 Vous pouvez nous retrouver sur :
 
-Discord : [https://discord.me/edaly  
-](https://discord.me/edaly)Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
+Discord : [https://discord.me/edaly](https://discord.gg/SUCBQk3)
+Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
 Twitter : [https://twitter.com/edalyfr](https://twitter.com/edalyfr)
