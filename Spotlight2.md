@@ -29,5 +29,5 @@ Comme toujours, nous espérons que celui-ci vous aura aider à mieux comprendre 
 Vous pouvez nous retrouver sur :
 
 Discord : [https://discord.me/edaly  
-](https://discord.me/edaly)Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
+](https://discord.gg/SUCBQk3)Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
 Twitter : [https://twitter.com/edalyfr](https://twitter.com/edalyfr)
