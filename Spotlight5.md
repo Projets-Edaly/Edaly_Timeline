@@ -20,5 +20,5 @@ Or, Arma 3 met Ã  notre disposition ce que l'on appelle des "hitpoints", c'est-Ã
 Vous pouvez nous retrouver sur :
 
 Discord : [https://discord.me/edaly  
-](https://discord.me/edaly)Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
+](https://discord.gg/SUCBQk3)Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
 Twitter : [https://twitter.com/edalyfr](https://twitter.com/edalyfr)
