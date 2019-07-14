@@ -31,5 +31,5 @@ A bientôt !
 Rejoignez-nous !
 
 Facebook :  [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
-Discord :  [https://discord.me/edaly](https://discord.me/edaly)  
+Discord :  [https://discord.me/edaly](https://discord.gg/SUCBQk3)  
 Twitter :  [https://twitter.com/edalyfr](https://twitter.com/edalyfr)
