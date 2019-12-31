@@ -6,7 +6,7 @@ Bienvenue pour ce second Spotlight de Projets Edaly. Les Spotlights permettent a
 Nous sommes 3 à nous coordonner en tant que **Level Designers** sur le projet pour permettre la **construction du monde** : Juan, Cornibard et moi-même.  
 Je vais donc essayer de mettre la lumière sur notre travail sur ce projet !
 
-![Spotlight 2_1](https://www.edaly.fr/wp-content/uploads/2018/04/Spotlight_2_IMG_1-1024x576.png)Tout d’abord, il faut prendre en compte que le level design est lié à de nombreux autres éléments de la production et ceux qui en ont la charge ne peuvent s’isoler. C’est également pourquoi il passe par une grande phase de réflexion en amont, le temps que les éléments nécessaires au début de la production sur la carte soient validés et clairement définit.
+![Spotlight 2_1](https://cdn.discordapp.com/attachments/327943596873482242/661612737289519124/Spotlight_2_IMG_2.png)Tout d’abord, il faut prendre en compte que le level design est lié à de nombreux autres éléments de la production et ceux qui en ont la charge ne peuvent s’isoler. C’est également pourquoi il passe par une grande phase de réflexion en amont, le temps que les éléments nécessaires au début de la production sur la carte soient validés et clairement définit.
 
 En phase de préproduction, les level designers ont été en relation directe et constante avec le modeleur 3D en charge de la conception de la **map** (Kevin dans notre cas). La communication est nécessaire pour apporter les modifications légères sur le long terme.
 
@@ -22,7 +22,7 @@ Un autre élément primordial à n’importe quelle échelle, et surtout sur ce 
 
 Ainsi se conclut ce spotlight sur le level design du jeu. Ce sera un plaisir que de partager les futures avancées du level design dans les DevBlogs à venir !  
 - SuperBiscotCOT  
-![](https://www.edaly.fr/wp-content/uploads/2018/04/Spotlight_2_IMG_2-1024x445.png)
+![](https://cdn.discordapp.com/attachments/327943596873482242/661612735468929025/Spotlight_2_IMG_1.png)
 
 Comme toujours, nous espérons que celui-ci vous aura aider à mieux comprendre comment nous procédons dans le développement de nos mods. Nous vous donnons dors et déjà rendez-vous pour le mois de Mai pour un **Spotlight** sur l’un de nos **Graphiste 2D/3D** qui expliquera ses méthodes de travail et qui détaillera au mieux quel est son rôle et ce qu’il fait. A très bientôt !
 
