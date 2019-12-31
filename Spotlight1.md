@@ -1,11 +1,10 @@
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2018/04/fd-1-1200x173.png)
 # Spotlight #1 SOUND DESIGNER
 
 Bienvenue pour ce tout premier Spotlight de Projets Edaly. Les Spotlights permettent aux membres de l’équipe de partager quelques **anecdotes et histoires** sur le développement des mods de Projet Edaly. A partir de ce mois-ci, vous aurez tous les mois un nouveau Spotlight qui permettra d’en apprendre plus sur les techniques de travail utilisées par notre équipe. Cela vous permettra aussi d’avoir quelques informations sur les coulisses du développement des mods.
 
 Pour ce tout premier Spotlight, c’est Sev, notre **Sound Designer**, qui va vous raconter une petite histoire… L’histoire du fameux **téléphone à cadran rotatif** du projet Edaly RPG.
 
-![Téléphone à cadran](https://www.edaly.fr/wp-content/uploads/2018/04/tel-1024x672.jpg)Ma toute première mission au sein du projet Edaly a été d’enregistrer un téléphone à cadran, pour coller à la cabine qui a été modélisée par Kzk.
+![Téléphone à cadran](https://cdn.discordapp.com/attachments/327943596873482242/661611108628561942/tel.png)Ma toute première mission au sein du projet Edaly a été d’enregistrer un téléphone à cadran, pour coller à la cabine qui a été modélisée par Kzk.
 
 Premier problème, où trouver cet objet de nos jours ? J’ai d’abord demandé à ma famille s’ils n’avaient pas ça chez eux, réponse négative. Eh oui, il fallait s’en douter !
 
@@ -27,14 +26,14 @@ Une fois les prises sons effectuées, il me restait à les traiter sur logiciel.
 J’ai suggéré que le joueur puisse avoir différents échantillons sonores pour un même chiffre/numéro , (pour des questions de relief et de réalisme) nous avons alors décidé d’en assigner 3 par chiffre.  
 Cependant, j’ai fait le choix de ne réaliser aucune prise où le cadran serait relâché violemment, à la hâte, par souci de RP. Si le joueur est calme, et qu’il entend que le cadran se relâche d’un coup brusquement, ça ne collera pas. J’ai aussi fait ce choix dans un soucis technique au niveau du volume sonore, car ça pourrait vous péter les tympans sans prévention.
 
-![Logiciel_photo_prise](https://www.edaly.fr/wp-content/uploads/2018/04/Logiciel_photo_prise-1024x555.png)Les numéros n’ont donc pas la même résonance à chaque fin, il y a des résonances plus courtes, et d’autres un peu plus longues (un bruit aigu, le téléphone qui résonne après que le cadran soit revenu en sa position initiale, etc...) Tout ça pour apporter de la diversité. Les sons vous paraitront peut-être identiques, car certains se ressemblent beaucoup, mais ce ne  
+![Logiciel_photo_prise](https://cdn.discordapp.com/attachments/327943596873482242/661611105281507328/Logiciel_photo_prise.png)Les numéros n’ont donc pas la même résonance à chaque fin, il y a des résonances plus courtes, et d’autres un peu plus longues (un bruit aigu, le téléphone qui résonne après que le cadran soit revenu en sa position initiale, etc...) Tout ça pour apporter de la diversité. Les sons vous paraitront peut-être identiques, car certains se ressemblent beaucoup, mais ce ne  
 sera pas le cas. Il y a donc 30 pistes audios en tout.
 
 Sur le logiciel, après avoir choisi une piste à exploiter, j’ai commencé à la « nettoyer » en utilisant un « Multiband gate » : j’ai coupé sur plusieurs plages de fréquences les bruits parasites étrangers aux bruits produits par le cadran lui-même. Il faut donc faire attention à ne pas enlever de fréquences propres au téléphone !
 
 Les bruits parasites sont des bruits/sons non désirés, provenant de l’environnement… Vous savez, quand votre chat se met à miauler comme un sourd à l’autre bout de la pièce ? Ou encore les bruits de votre ventilation, système d’aération...
 
-![Multiband_gate](https://www.edaly.fr/wp-content/uploads/2018/04/Multiband_gate-1024x555.png)
+![Multiband_gate](https://cdn.discordapp.com/attachments/327943596873482242/661611084943196162/Multiband_gate.png)
 
 J’ai également corrigé la spatialisation du son, qui ressortait légèrement plus à droite qu’à gauche dû au placement de l’enregistreur (oui je suis ingénieux, mais pas tant que ça en fait).
 
