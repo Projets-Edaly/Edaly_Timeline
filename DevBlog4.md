@@ -11,7 +11,7 @@ C’est pour cette raison qu’Edaly Warfare n’est pas encore disponible, nous
 
 Ceci étant dit, l’équipe de développement a beaucoup avancé lors du mois de mars. Nos programmeurs ont ainsi avancé sur le développement de la mission tandis que les Modeleurs 3D s’occupaient de la modélisation de bâtiments et objets (voir image ci-dessus) qui composeront la map. Les Graphistes ont continué de travailler sur l’interface du mod et ont pu se lancer dans le texturing des premiers bâtiments. Vous pouvez avoir un aperçu d’une des boutiques que vous pourrez retrouver en jeu.
 
-![Pub v1](https://www.edaly.fr/wp-content/uploads/2018/04/image1-1024x487.png)  
+![Pub v1](https://cdn.discordapp.com/attachments/327943596873482242/661613860389912596/shopold.jpg)  
 Nous vous parlions de l’interface le mois dernier et nous aimerions vous annoncer que celle-ci a été finalisée et qu’elle est dorénavant fonctionnelle. Nous avons encore beaucoup de travail à accomplir, il manque encore beaucoup de choses, mais l’équipe est déjà très heureuse de travail accompli. Nous espérons que cette publication vous aura plu et nous vous donnons rendez-vous le mois prochain pour de nouvelles informations !
 
 Rejoignez-nous
