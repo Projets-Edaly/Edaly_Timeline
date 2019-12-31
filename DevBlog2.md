@@ -1,4 +1,4 @@
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2018/04/DB_2_Website-1.png)
+![enter image description here](https://cdn.discordapp.com/attachments/327943596873482242/661594283622793229/DB_2_Website.png)
 # DEVBLOG #2 - Décembre 2017
 
 ## Ce DevBlog sera dédié à notre mod principal, celui que vous attendez tous : Edaly RPG.
@@ -7,7 +7,7 @@ Nous avons décidé de partir dans une aventure très particulière pour ce mod.
 
 C’est tout naturellement pour nous que nous nous sommes tournés vers Cuba pour notre mod principal. Beauté, richesse et dynamisme, mais aussi conflit et complexité sont les quelques points qui rendent cette ile parfaitement adaptée à un mode Roleplay complet. Inspirés par son charisme et son histoire, nous avons créé notre propre petit Cuba. Vous retrouverez ci-dessous quelques informations vous permettant de suivre de près le projet.
 
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2017/12/image2.png)
+![Los carboneros](https://cdn.discordapp.com/attachments/327943596873482242/661595694477475851/DB_2_IMG1.png)
 
 Nous effectuons des recherches afin de coller au maximum à l’**ambiance** et au **mode de vie** du lieu et de l’époque que nous représentons en jeu. Ainsi, vous pourrez profiter de métiers parfaitement adaptés à votre style de jeu, mais aussi au Lore de notre projet.  
 Parmi les divers métiers que vous trouverez en jeu, vous pourrez devenir un **charbonnier**.  
@@ -21,7 +21,7 @@ C’est un métier iconique de certaines villes du pays, qui basaient leurs éco
 
 En 1959 et avec la révolution au pouvoir, le chef du gouvernement Fidel Castro, icône du pays, décide de passer le réveillon du premier « Noël libre » de Cuba avec les charbonniers.  
 La péninsule est également connue sous le nom de la baie des Cochons, lieu de la tentative de débarquement des Etats-Unis pour renverser la révolution en 1961.
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2017/12/image7-600x225.png)
+![Hasta la victoria](https://cdn.discordapp.com/attachments/327943596873482242/661596120161452052/DB_2_IMG2.png)
 
 Nous avons récemment accueilli un nouvel élément dans l’équipe ! **Sev** a intégré notre groupe en tant que **Sound Designer**. Son travail consiste à créer des sons et des musiques pour Projets Edaly. Les différents projets auront tous droit à leurs propres thèmes composés spécifiquement pour leur correspondre.
 
@@ -46,8 +46,7 @@ Et bordel nous sommes déjà
 302
 
 sur **Discord** merci pour ce cadeau de fin d'année, votre patience, votre soutient et **JOYEUX NOEL !!!**
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2017/12/image3-400x359.jpg)
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2017/12/image5-400x400.png)
+
 Rejoignez-nous
 
 Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
