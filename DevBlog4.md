@@ -7,7 +7,7 @@ Certains d’entre vous se posent des questions au sujet de notre second mod ini
 
 C’est pour cette raison qu’Edaly Warfare n’est pas encore disponible, nous n’avons pas eu le temps de travailler dessus. Nous sommes donc dans l’obligation de repousser la date de disponibilité de ce mod. Edaly RPG est une priorité pour nous et nous préférons nous y consacrer pleinement.
 
-![Meuble v1](https://www.edaly.fr/wp-content/uploads/2018/04/image2-1024x481.png)
+![Meuble v1](https://cdn.discordapp.com/attachments/327943596873482242/661612964536778754/meubles.png)
 
 Ceci étant dit, l’équipe de développement a beaucoup avancé lors du mois de mars. Nos programmeurs ont ainsi avancé sur le développement de la mission tandis que les Modeleurs 3D s’occupaient de la modélisation de bâtiments et objets (voir image ci-dessus) qui composeront la map. Les Graphistes ont continué de travailler sur l’interface du mod et ont pu se lancer dans le texturing des premiers bâtiments. Vous pouvez avoir un aperçu d’une des boutiques que vous pourrez retrouver en jeu.
 
