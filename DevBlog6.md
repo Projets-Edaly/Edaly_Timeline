@@ -1,4 +1,4 @@
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2018/07/image3-1200x675.png)
+![enter image description here](https://cdn.discordapp.com/attachments/327943596873482242/661603080282046475/DB_6_Website.png)
 # DEVBLOG #6 - juillet 2018
 
 ----------
