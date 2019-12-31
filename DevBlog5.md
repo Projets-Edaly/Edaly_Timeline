@@ -1,4 +1,4 @@
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2018/05/DB_5_Website-1200x675.png)
+![enter image description here](https://cdn.discordapp.com/attachments/327943596873482242/661594279046807564/DB_5_Website.png)
 # DEVBLOG #5 - mai 2018
 
 Le mois de mai a été un peu particulier pour l’équipe de développement, nous avons avancé dans de nombreux domaines et nous sommes heureux de pouvoir vous présenter de nouvelles fonctionnalités dans ce DevBlog. Tout d’abord, et même si cela n’a rien à voir au suivi du développement, nous souhaitons vous remercier pour votre soutien durant ces longs mois d’attentes ! Nous sommes dorénavant 500 sur Discord et ça c’est incroyable !
@@ -8,7 +8,7 @@ Dans un souci d’immersion, nous avons décidé assez tôt dans le développeme
 
 Les joueurs Arma sont habitués à un type de menu très peu pratique et souvent frustrant : le menu molette ; ce petit menu censé faciliter les actions à toujours été un souci dans arma et nous pensons qu’il n’est pas adapté à nos besoins. Nous avons donc décidé de supprimer ce menu et de permettre au joueur de faire des actions et interactions directement via l’objet concerné.
 
-![Image_Inventaire](https://www.edaly.fr/wp-content/uploads/2018/05/20180518201802_1-1024x576.jpg)
+![Image_Inventaire](https://cdn.discordapp.com/attachments/327943596873482242/661607554408906753/db5_img.jpg)
 
 Système “Boite aux lettres”
 
