@@ -11,7 +11,7 @@
 
 Nous commencerons ce devblog par le travail de Moonie, qui a réalisé des textures pour les multiples barrières de la map. Il existe 14 barrières avec, pour chacune des barrières, 3 variantes. Au total, 42 barrières sont disponibles afin de coller avec l’atmosphère de chaque partie de la map. Ces textures ont toutes été réalisées via des logiciels Allegorithmic (Substance), comme Painter et le tout nouveau Alchemist. Ce dernier est utilisé pour la création et la modification des materials, tandis que Painter est utilisé pour les appliquer. Ces deux logiciels sont indispensables, puisqu’ils permettent un gain de temps au niveau production.
 
-# ![Barrière](https://www.edaly.fr/wp-content/uploads/2019/04/Edaly_Showcase_RPG_62.png)
+# ![Barrière](https://cdn.discordapp.com/attachments/351640351297241089/569239248344055829/Edaly_Showcase_RPG_62.png)
 
 ![Barrière](https://cdn.discordapp.com/attachments/327943596873482242/661607895867064340/Edaly_Showcase_RPG_64.jpg)
 
