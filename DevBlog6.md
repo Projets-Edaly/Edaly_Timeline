@@ -11,7 +11,7 @@ Avec l’arrivée de nouveaux modeleurs 3D et mappeurs, nous avons pu confortabl
 
 Quant aux nouveautés, nous sommes très heureux de pouvoir officialiser la présence de personnages féminins jouables en jeu. Nos modeleurs 3D sont arrivés à un prototype fonctionnel, nous avons donc pensé que vous aimeriez y jeter un œil. Gardez à l’esprit qu’il ne s’agit que d’un prototype et que le personnage final ne sera pas nécessairement proche/identique de ceci. Vous pouvez retrouver ci-dessous une petite vidéo vous montrant le modèle sans textures, mais animé.
 
-![Gif anim_women](https://cdn.discordapp.com/attachments/327943596873482242/661602501593792533/feminin.mp4)
+![Gif anim_women](https://gfycat.com/bigvapidiggypops)
 
 A côté de cela, nous avons commencé à travailler sur de nombreuses animations qui vous permettront de profiter d’une meilleure immersion en jeu. Parmi la liste des animations disponibles, vous aurez notamment :
 
