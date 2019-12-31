@@ -13,6 +13,8 @@ Quant aux nouveautés, nous sommes très heureux de pouvoir officialiser la pré
 
 ![Gif anim_women](https://youtu.be/m36hCpgX4GY)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m36hCpgX4GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 A côté de cela, nous avons commencé à travailler sur de nombreuses animations qui vous permettront de profiter d’une meilleure immersion en jeu. Parmi la liste des animations disponibles, vous aurez notamment :
 
 -   Une animation customisée pour mettre les mains sur la tête et marcher en même temps
