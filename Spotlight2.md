@@ -1,4 +1,3 @@
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2018/04/test88-1200x129.png)
 # Spotlight #2 LEVEL DESIGNER
 
 Bienvenue pour ce second Spotlight de Projets Edaly. Les Spotlights permettent aux membres de l'équipe de partager quelques anecdotes et histoires sur le **développement** des mods de Projets Edaly. Pour le mois d'avril, nous vous présenteront le travail de l'un des level Designers, nos créateurs de niveaux et de cartes, SuperBiscotCOT.
