@@ -13,7 +13,7 @@ Nous commencerons ce devblog par le travail de Moonie, qui a réalisé des textu
 
 # ![Barrière](https://www.edaly.fr/wp-content/uploads/2019/04/Edaly_Showcase_RPG_62.png)
 
-![Barrière](https://www.edaly.fr/wp-content/uploads/2019/04/Edaly_Showcase_RPG_64.png)
+![Barrière](https://cdn.discordapp.com/attachments/327943596873482242/661607895867064340/Edaly_Showcase_RPG_64.jpg)
 
 ### Canons de Nueva
 
@@ -21,9 +21,9 @@ Nous commencerons ce devblog par le travail de Moonie, qui a réalisé des textu
 
 Ensuite nous allons vous présenter le travail réalisé par Brutalzic. En effet, celui-ci a modélisé des canons qui seront incorporés en tant que barrières. Après l’indépendance avec la Couronne Espagnole, les révolutionnaires, dans un acte pacifiste, ont décidé de retirer les canons qui étaient dans Fuerte Quesada et ont décidé de les planter dans le sol. Cela donne des barrières, en somme toute assez cocasses, originales et surtout avec une portée historique. Vous trouverez ci-joint un aperçu de ce à quoi les canons vont ressembler une fois incorporés sur la map :
 
-![Canon](https://www.edaly.fr/wp-content/uploads/2019/04/1555709652-20190419233313-1.png)
+![Canon](https://cdn.discordapp.com/attachments/327943596873482242/661607466169139208/1555709652-20190419233313-1.png)
 
-![Canon](https://www.edaly.fr/wp-content/uploads/2019/04/1555709652-20190419233342-1-800x452.png)
+![Canon](https://cdn.discordapp.com/attachments/327943596873482242/661607489720025088/1555709652-20190419233342-1.png)
 
 Nous espérons que ce devblog vous aura plu, et nous vous retrouvons la semaine prochaine pour du nouveau contenu qui devrait vraiment vous plaire.  
 A bientôt !
