@@ -33,9 +33,9 @@ Plusieurs types de sons seront travaillés et enregistrés avec de vrais objets 
 L’une des fonctionnalités les plus importantes des mods “**Life**” est sans aucun doute le **téléphone portable**. Souvent couplé à une tablette dans un mod RP standard, cette feature clé est indispensable dans ce genre de mod. Nous avons réfléchi à ce que nous pourrions vous proposer afin de remplacer le téléphone. Fini le smartphone dernier cri, faites place aux premiers téléphones “portables”. Peu courants, il ne sera néanmoins pas impossible d’avoir votre propre téléphone et si vous n’en avez pas... il faudra vous rendre dans un café ou auprès d’une cabine téléphonique dans les environs pour passer un appel.
 
 Kzk, l’un de nos Modeleurs 3D a commencé à travailler sur les “bulbes” des cabines tandis que Kira s’occupe du script du téléphone à cadran rotatif que vous pourrez retrouver un peu partout en jeu. Vous pouvez aussi visionner une petite vidéo vous montrant la toute première version du cadran qui est amené à être modifié, bien évidemment.
-[![Alt text](https://img.youtube.com/vi/pByWvk83E0U/0.jpg)](https://youtu.be/pByWvk83E0U)
+[![fonctionnement cadran](https://img.youtube.com/vi/pByWvk83E0U/0.jpg)](https://youtu.be/pByWvk83E0U)
 
-![enter image description here](https://www.edaly.fr/wp-content/uploads/2017/12/image6.png)
+![Cabine tel](https://cdn.discordapp.com/attachments/360671450585235458/391271222060515328/screenshot122.png)
 
 ### Une map ça se mange ?
 
