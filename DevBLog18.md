@@ -2,7 +2,9 @@
 # DEVBLOG AVRIL 2020 
 
 Hey, pssst c’est nous (vous vous rappelez ?), on a de nouveau deux trois choses à vous montrer ce mois-ci. Mais d’abord le saviez-vous? ![:clippy:](https://cdn.discordapp.com/emojis/701800805530861588.png?v=1) Projets Edaly dispose d’un canal annonce où vous pouvez vous abonner pour recevoir nos devBlog directement sur vos serveurs Discord c’est pas génial ça ? Avec l’approche certaine de l’été 2020, le rythme de travail pour le projet a grandement accéléré. Nos artistes, programmeurs et designers sont à 100% pour vous produire le meilleur contenu possible.  
-Nous avons décidé de nous aider de MegaScan qui vient compléter le travail des artistes. Parmis ce que nous avons à vous partager aujourd’hui, se retrouvent plusieurs assets (ressources) issus de cette banque de scans 3D. *L’utilisation des modèles et surfaces 3D de Quixel nous permettent de produire plus, de meilleur qualité, en moins de temps. **Voici une partie des assets que nous avons choisis de vous montrer pour Edaly RPG.**
+Nous avons décidé de nous aider de MegaScan qui vient compléter le travail des artistes. Parmis ce que nous avons à vous partager aujourd’hui, se retrouvent plusieurs assets (ressources) issus de cette banque de scans 3D. *L’utilisation des modèles et surfaces 3D de Quixel nous permettent de produire plus, de meilleur qualité, en moins de temps. 
+
+**Voici une partie des assets que nous avons choisis de vous montrer pour Edaly RPG.**
 
 
 
@@ -31,7 +33,7 @@ Barils et palettes : Toujours issus des Megascans, voici les barils et palettes 
 
 
 
-Abri de Marché : A saint George, comme à Nueva, les marchés se font nombreux et permettent aux habitants des villes et de la campagne de se fournir en fruit et légumes frais notamment. Vous pourrez facilement repérer les marchés grâce à la présence de ces petits abris qui couvriront les étales et la nourriture.
+__Abri de Marché :__ A saint George, comme à Nueva, les marchés se font nombreux et permettent aux habitants des villes et de la campagne de se fournir en fruit et légumes frais notamment. Vous pourrez facilement repérer les marchés grâce à la présence de ces petits abris qui couvriront les étales et la nourriture.
 
 
 
@@ -43,7 +45,7 @@ Abri de Marché : A saint George, comme à Nueva, les marchés se font nombreux 
 
 
 
-Lit : Déjà présenté parmi nos premiers assets, le lit est un élément important de votre habitation. Nous avons ainsi modifié le modèle ainsi que ses textures et avons rafraîchi son design général. Vous pouvez voir l’avant et après 2 ans sont passées entre.
+__Lit :__ Déjà présenté parmi nos premiers assets, le lit est un élément important de votre habitation. Nous avons ainsi modifié le modèle ainsi que ses textures et avons rafraîchi son design général. Vous pouvez voir l’avant et après 2 ans sont passées entre.
 
 [![](https://media.discordapp.net/attachments/360682493352869889/701810311333675028/arma3_x64_nJ52J7JCxg.png?width=400&height=182)](https://cdn.discordapp.com/attachments/360682493352869889/701810311333675028/arma3_x64_nJ52J7JCxg.png)
 
