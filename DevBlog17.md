@@ -26,7 +26,7 @@ Si je dépose mon passeport et qu’il est ramassé, une personne se retrouvera 
 
 Si la personne avec le passeport dans son inventaire se déconnecte, le contenu du passeport est **sauvegardé dans son profil** et le passeport n°6 est **libéré** afin de pouvoir être utilisé par quelqu’un d’autre. Autrement, aussi longtemps que le passeport reste dans la possession d’un joueur connecté sur le serveur, il garde en **mémoire** les informations de son propriétaire originel.
 
-Voici deux schémas pour illustrer l’exemple.  
+Voici deux schémas pour illustrer l’exemple :  
 
 ![https://i.imgur.com/XboRs1m.png](https://i.imgur.com/XboRs1m.png)
 ![https://i.imgur.com/RCkgm3R.png](https://i.imgur.com/RCkgm3R.png)
