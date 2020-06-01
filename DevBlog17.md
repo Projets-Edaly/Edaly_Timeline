@@ -35,7 +35,7 @@ Voici deux schémas pour illustrer l’exemple :
 
 Voilà qui conclu ce Devblog qui couvre une fonctionnalité importante d’Edaly RPG.
 Nous espérons que celui-ci vous aura plu .
-N’hésitez pas à faire vos commentaires et à discuter directement avec nous sur si vous voulez plus d’info sur l’utilité des item complexe sans oublier le reste de la communauté sur le Discord.
+N’hésitez pas à faire vos commentaires et à discuter directement avec nous sur si vous voulez plus d’info sur l’utilité des "item complexe" sur le Discord.
 
 Rejoignez-Nous !  
 Facebook : [Projets Edaly](https://www.facebook.com/Projets-Edaly-216092102257899/)  
