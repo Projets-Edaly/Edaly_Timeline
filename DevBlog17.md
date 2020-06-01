@@ -1,4 +1,4 @@
-# DEVLOG JUIN 2020
+# DEVBLOG JUIN 2020
 
 **Bonjour à tous**, 
 
