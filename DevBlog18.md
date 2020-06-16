@@ -2,9 +2,9 @@
 
 **Bonjour à tous** ,
 
-Comment allez-vous ? Nous ça va on carbure pour vous préparer l’Alpha, aujourd'hui on va aborder plusieurs thème du développement, on est parti. 
+Comment allez-vous ? Nous ça va on carbure pour vous préparer l’Alpha, aujourd'hui on va aborder plusieurs thèmes du développement, on est parti. 
 
-La première partie que l’on va entamer aujourd'hui est un voeux de longue date, depuis le début du projet nous voulons avoir des visages maisons et maintenant c’est chose faite, et mieux encore, nous avons même nos propre têtes. Les têtes (et visages qui y sont liés) sont sculptés sur Blender à partir d’un modèle unique puis texturés sur Substance Painter.
+La première partie que l’on va entamer aujourd'hui est un voeux de longue date, depuis le début du projet nous voulons avoir des visages maison et maintenant c’est chose faite, et mieux encore, nous avons même nos propre têtes. Les têtes (et visages qui y sont liés) sont sculptés sur Blender à partir d’un modèle unique puis texturés sur Substance Painter.
 
 
 ![defaut](https://cdn.discordapp.com/attachments/677483966059642880/722243815733460992/VisageDefault.jpg)
@@ -41,7 +41,7 @@ Vêtement typique
 ## Enfin un autre petit aperçu de l’avancement en modélisation 3D / texturing
 
 
-Vous vous rappelez ? Nous vous avions présenté la version non texturée de cette maison de campagne au mois d’avril. nous l'avons récemment habillée, la voici donc avec des textures.
+Vous vous rappelez ? Nous vous avions présenté la version non texturée de cette maison de campagne au mois d’avril. Nous l'avons récemment habillée, la voici donc avec des textures.
 ![maison de campagne](https://cdn.discordapp.com/attachments/677483966059642880/722244004850171954/petitemaisontest.jpg)
 ![maison de campagne](https://cdn.discordapp.com/attachments/677483966059642880/722243949078773840/petitemaison_2.jpg)
 Bureau
