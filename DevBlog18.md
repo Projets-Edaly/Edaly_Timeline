@@ -1,4 +1,4 @@
-# DEVBLOG deuxième quinzaine de juin
+# DEVBLOG quinzaine de juin
 
 **Bonjour à tous** ,
 
