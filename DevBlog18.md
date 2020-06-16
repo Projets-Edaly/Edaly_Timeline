@@ -57,13 +57,13 @@ Elle servira de maison pour les personnes ayant choisi le Starter Pêcheur
  
 ![dortoir](https://cdn.discordapp.com/attachments/677483966059642880/722243969836122223/cabane_du_pecheur.jpg)
 
-
+**Un entrepôt**
+![entrepot](https://cdn.discordapp.com/attachments/677483966059642880/722244016699343038/petitEntrepot.jpg)
+![entrepot](https://cdn.discordapp.com/attachments/677483966059642880/722243960428298311/petitEntrepot_2.jpg)
 **Guérite militaire**
 ![guerite](https://cdn.discordapp.com/attachments/677483966059642880/722244003822567494/gueritte.jpg)
 ![guerite](https://cdn.discordapp.com/attachments/677483966059642880/722243921198972958/gueritte_2.jpg)
-Un entrepôt
-![entrepot](https://cdn.discordapp.com/attachments/677483966059642880/722244016699343038/petitEntrepot.jpg)
-![entrepot](https://cdn.discordapp.com/attachments/677483966059642880/722243960428298311/petitEntrepot_2.jpg)
+
 
 **Maison trinidad typique des caraïbes**
 ![trinidad](https://cdn.discordapp.com/attachments/677483966059642880/722243999406096483/Trinidad.jpg)
