@@ -18,7 +18,7 @@ En second, voici Jorge.
 ![jorge](https://cdn.discordapp.com/attachments/677483966059642880/722243865163071618/Jorge.jpg)
 Pour finir, voici Hans.
 
-A s’y méprendre, on pourrait le confondre avec le Terminator, froid, méthodique il incarnera parfaitement la main armée de l ‘Etat.
+A s’y méprendre, on pourrait le confondre avec le Terminator, froid, méthodique il incarnera parfaitement la main armée de l ‘Etat...
 ![Hans](https://cdn.discordapp.com/attachments/677483966059642880/722243873136443462/Hans.jpg)
 
 Nous en avons d’autres en réserve mais vous les découvrirez par vous même. :)
