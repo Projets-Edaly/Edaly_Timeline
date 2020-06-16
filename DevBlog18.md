@@ -41,7 +41,7 @@ Vêtement typique
 ## Enfin un autre petit aperçu de l’avancement en modélisation 3D / texturing
 
 
-ous vous rappelez ? Nous vous avions présenté la version non texturée de cette maison de campagne au mois d’avril. nous l'avons récemment habillée, la voici donc avec des textures.
+Vous vous rappelez ? Nous vous avions présenté la version non texturée de cette maison de campagne au mois d’avril. nous l'avons récemment habillée, la voici donc avec des textures.
 ![maison de campagne](https://cdn.discordapp.com/attachments/677483966059642880/722244004850171954/petitemaisontest.jpg)
 ![maison de campagne](https://cdn.discordapp.com/attachments/677483966059642880/722243949078773840/petitemaison_2.jpg)
 Bureau
