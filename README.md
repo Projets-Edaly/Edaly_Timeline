@@ -18,6 +18,8 @@
 |14|15 juin 2019|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/DevBlog14.md)|
 |15|28 juillet 2019|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/DevBlog15.md)|
 |16|20 avril 2020|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/DevBlog16.md)|
+|16|1er juin 2020|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/DevBlog17.md)|
+|16|16 juin 2020|[link](https://github.com/Projets-Edaly/Edaly_Timeline/blob/master/DevBlog18.md)|
 
 |Spotlight|Date|Link
 |-|-|-|
