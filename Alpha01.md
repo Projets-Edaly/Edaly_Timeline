@@ -9,7 +9,7 @@ L’Alpha qui vous sera proposée, représente la **fondation du mod** qui est c
 
 L’Alpha sera importante, car vos actions vont nous permettre de tester la solidité de la **fondation** et nous permettre de la renforcer / modifier pour **construire** l’avenir du mod.
 
-
+![roadmap](https://cdn.discordapp.com/attachments/360682493352869889/740264613572116571/PE-PublicRoadmap.jpg)
 ### Ouverture Alpha Phase 1 le 18 septembre
 
  Déroulement des phases de playtest :
@@ -32,3 +32,6 @@ Dans un premier temps, seuls les pionniers pourront accéder à cette phase. Ils
 Les Pionniers seront contactés par Message Privé sur Discord et devront fournir le **GUID Arma** afin de pouvoir accéder aux phases de tests. Lorsque les démarches auront étés remplies par les participants, ils auront accès à des canaux réservés aux testers sur Discord. 
 
 L’équipe Projets Edaly :tada:
+
+
+![edareveal](https://cdn.discordapp.com/attachments/360682493352869889/740264717204848751/PE-AlphaReveal.jpg)
